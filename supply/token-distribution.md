@@ -16,3 +16,5 @@ Lockup and vesting terms are applied to key stakeholders to promote commitment a
 | DAO Reserve          | 30%        | DAO governance, staking pool, etc.                   |
 
 ![Token Distribution Chart](../images/token-distribution.png)
+
+<!-- Auto-update: 2025-10-14T13:09:55.232851 -->
